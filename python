@@ -1,0 +1,16 @@
+# пример кода для созданиии списка для python
+
+a = [1, 2, 5, 12, 50, 100]  # список
+print(a)   # вывод
+
+
+
+# пример кода для создании stack для python
+
+stack =                          # создал пустой список
+
+stack.append("a")                # с помощью append() добавляем элементы a b и c 
+stack.append("b")
+stack.append("c")
+print(stack)                      # вывод
+    
